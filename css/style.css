@@ -1327,7 +1327,6 @@ a {
     text-align: center;
     font-family: "Roboto", monospace;
 
-    background: url('/images/mr.gif');	
     background: #567bff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1341,7 +1340,6 @@ a {
     text-align: center;
     font-family: "Roboto", monospace;
     width: 100%;
-    background: url('/images/mr.gif');	
     background: #567bff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
